@@ -1,0 +1,25 @@
+.header {
+    background-color: #f6f9f9;
+    padding: 30px 0;
+    margin-bottom: 70px;
+}
+
+.headerContainer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.logoGroup {
+    display: flex;
+    align-items: center;
+}
+
+.logoGroup img {
+    margin-right: 20px;
+}
+
+.logoGroup p {
+    font-size: 30px;
+    color: #2d3950;
+}

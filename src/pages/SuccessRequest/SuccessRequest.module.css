@@ -1,0 +1,15 @@
+.titleGroup {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.successTitle {
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.successDescr {
+    font-size: 24px;
+    margin-bottom: 30px;
+}

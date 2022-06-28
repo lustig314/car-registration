@@ -1,0 +1,6 @@
+.mainContainer {
+    min-height: 100vh;
+    max-width: 555px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}

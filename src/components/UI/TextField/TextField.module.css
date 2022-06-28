@@ -1,0 +1,21 @@
+.textField{
+    padding: 17px 14px;
+    font-family: 'Myriad Pro', sans-serif;
+    color: #303134;
+    font-size: 15px;
+    font-weight: 400;
+    border: 1px solid #999999;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.textField:hover {
+    border-color: #303134;
+}
+
+.textField::placeholder {
+    color: #999999;
+    line-height: 23px;
+}
+

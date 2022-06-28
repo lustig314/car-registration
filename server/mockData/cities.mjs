@@ -1,0 +1,26 @@
+export const cities = [
+  {
+    code: 'MSK',
+    name: 'Москва',
+  },
+  {
+    code: 'VLG',
+    name: 'Волгоград',
+  },
+  {
+    code: 'TMB',
+    name: 'Тамбов',
+  },
+  {
+    code: 'BLG',
+    name: 'Белгород',
+  },
+  {
+    code: 'VRG',
+    name: 'Воронеж',
+  },
+  {
+    code: 'LPC',
+    name: 'Липецк',
+  },
+]

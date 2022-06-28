@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    position: relative;
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #303134;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 41px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #303134;
+}
+

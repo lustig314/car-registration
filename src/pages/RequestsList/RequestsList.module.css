@@ -1,0 +1,26 @@
+.reqDescr {
+    text-align: center;
+    margin: 0 0 70px;
+}
+
+.reqItem {
+    margin-bottom: 35px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.reqIcon {
+    margin-right: 20px;
+}
+
+.reqItemTitle {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.reqItemStatus,
+.reqItemDate {
+    color: #999999;
+}
